@@ -1,4 +1,4 @@
-100DaysOfJS | 6.Stopwatch
+100DaysOfJS | 6.StickyNotes
 
 6th of the "100DaysOfJS" test.
 
